@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "my name is nafees anwer and this is my first ci cd pipeline in jenkins in which i have byukd test then deploy to test then deploy to prod";
+        return " i love u aliya";
     }
 
 }
